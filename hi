@@ -53,7 +53,7 @@ Tab:AddLabel("2 accounts needed for winstreak farm")
 Tab:AddButton({
 	Name = "Points Farm",
 	Callback = function()
-       	loadstring(game:HttpGet("https://pastebin.com/raw/j7xCjzKm",true))()
+       	loadstring(game:HttpGet("https://pastebin.com/raw/zFFCGMhw",true))()
   	end    
 })
 
